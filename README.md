@@ -6,8 +6,8 @@ Nama  : Ocha Putri Perdana P
 <br/> NIS   : 4796/1515.070
 <br/> Sekolah : SMK Telkom Malang
 </h3>
-# Screenshots dan Penjelasan Program
-<br/>[![Screenshot (266).png](https://s10.postimg.org/6b733zaih/Screenshot_266.png)](https://postimg.org/image/iptv4b20l/)
+# Screenshot dan penjelasan program
+<br/>![Screenshot (266).png](https://docs.google.com/uc?id=0B09XALl5QufvbF8xc1NzRTNpR2c)
 <br/><h5>Gambar di atas merupakan tampilan saat Main dijalankan. Akan muncul dua buah form yang berbeda fungsinya serta button yang masing-masing memiliki fungsi tersendiri serta table untuk menampilkan hasil eksekusi.
 Form pertama berfungsi untuk menginputkan data barang yang dijual oleh Howard Bookstore</h5>
 
