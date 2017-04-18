@@ -31,3 +31,9 @@ diklik maka isian pada field qty, total harga, tanggal transaksi serta nama kasi
 <br/><h5>Pada gambar-gambar di atas terlihat langkah-langkah yang akan muncul ketika button Print diklik. Button Print akan menjalankan perintah untuk mengekspor data yang telah ada pada tabel menjadi sebuah file berformat pdf, dsb. yang dapat disimpan ke PC user. Perintah ini menggunakan library itextsharp yang mendukung proses ekspor data ke dalam bentuk pdf.</h5>
 ![Screenshot 13](https://docs.google.com/uc?id=0B09XALl5QufvajdDLUFaMDdXRms)
 <br/><h5>Gambar di atas menunjukkan hasil dari ekspor data dari aplikasi ke dalam bentuk pdf.</h5>
+<h1><b>UPDATE!! LOGIN PAGE DAN SEARCH</b></h1>
+<br/>[![login.jpg](https://s28.postimg.org/9dugmapel/login.jpg)](https://postimg.org/image/svp428mc9/)
+<br/>[![login2.jpg](https://s15.postimg.org/mbnmozle3/login2.jpg)](https://postimg.org/image/o3gljw4qv/)
+<br/>[![main.jpg](https://s15.postimg.org/bokqqfwxn/main.jpg)](https://postimg.org/image/9k0dpcvav/)
+<br/>[![main2.jpg](https://s30.postimg.org/ly4p1rvxt/main2.jpg)](https://postimg.org/image/cdl2ew6lp/)
+<br/>[![main3.jpg](https://s7.postimg.org/939bvnfuj/main3.jpg)](https://postimg.org/image/x703jxybb/)
